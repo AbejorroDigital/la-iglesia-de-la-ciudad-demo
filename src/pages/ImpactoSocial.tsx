@@ -33,7 +33,7 @@ export default function ImpactoSocial() {
           </div>
           <div>
             <img
-              src="https://images.unsplash.com/photo-1593113514676-5f8b4cbdf1d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+              src="https://images.unsplash.com/photo-1710092784814-4a6f158913b8?q=80&w=812&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Voluntarios sirviendo comida caliente en el banco de alimentos, mostrando compasión y servicio"
               className="rounded-3xl shadow-lg object-cover w-full h-[400px]"
               referrerPolicy="no-referrer"
