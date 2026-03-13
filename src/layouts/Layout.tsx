@@ -47,7 +47,7 @@ export default function Layout() {
             <div className="flex items-center">
               <Link to="/" className="flex-shrink-0 flex items-center">
                 <img 
-                  src="https://placehold.co/100x100/1e3a8a/ffffff?text=Logo" 
+                  src="https://i.postimg.cc/NFm1qCjT/logo.jpg" 
                   alt="Logo oficial de La Iglesia de la Ciudad, diseño moderno y minimalista en tonos azules" 
                   className="h-12 w-auto mr-3 rounded-full"
                 />
@@ -133,7 +133,7 @@ export default function Layout() {
             <div className="col-span-1 md:col-span-2">
               <div className="flex items-center mb-4">
                 <img 
-                  src="https://placehold.co/100x100/1e293b/ffffff?text=Logo" 
+                  src="https://i.postimg.cc/NFm1qCjT/logo.jpg" 
                   alt="Logo oficial de La Iglesia de la Ciudad, versión monocromática clara para fondos oscuros" 
                   className="h-10 w-auto mr-3 rounded-full"
                 />
