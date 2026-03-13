@@ -65,7 +65,7 @@ export default function Recursos() {
                 <div className="relative aspect-video bg-slate-200 group cursor-pointer">
                   {/* Placeholder for video thumbnail */}
                   <img
-                    src={`https://images.unsplash.com/photo-1438283173091-5dbf5c5a3206?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80`}
+                    src={`https://images.unsplash.com/photo-1740761026663-f4cd4b6fc162?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D`}
                     alt={`Miniatura del video: ${sermon.title}`}
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
