@@ -45,7 +45,7 @@ export default function Nosotros() {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="w-full md:w-1/2">
               <img
-                src="../data/assets/pastor-josé-sanchez.avif"
+                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
                 alt="Retrato profesional y cálido del Apóstol José Sánchez, transmitiendo liderazgo y empatía"
                 className="rounded-3xl shadow-lg object-cover w-full h-[500px]"
                 referrerPolicy="no-referrer"
