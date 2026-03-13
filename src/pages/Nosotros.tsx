@@ -45,7 +45,7 @@ export default function Nosotros() {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="w-full md:w-1/2">
               <img
-                src="https://raw.githubusercontent.com/AbejorroDigital/la-iglesia-de-la-ciudad-demo/refs/heads/main/src/data/assets/pastorjosesanchez.png"
+                src="../data/assets/pastor jose sanchez.JPG"
                 alt="Retrato profesional y cálido del Apóstol José Sánchez, transmitiendo liderazgo y empatía"
                 className="rounded-3xl shadow-lg object-cover w-full h-[500px]"
                 referrerPolicy="no-referrer"
