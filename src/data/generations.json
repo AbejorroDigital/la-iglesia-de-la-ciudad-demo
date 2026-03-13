@@ -1,0 +1,32 @@
+[
+  {
+    "id": "maternal",
+    "name": "Salón Maternal",
+    "ageRange": "0 a 1 año",
+    "focus": "Comodidad para madres; cuidado inicial del bebé."
+  },
+  {
+    "id": "pequeno-gigante",
+    "name": "Salón Pequeño Gigante",
+    "ageRange": "4 a 5 años",
+    "focus": "Mensajes visuales, títeres y manualidades."
+  },
+  {
+    "id": "escolar",
+    "name": "Nivel Escolar",
+    "ageRange": "7 a 12 años",
+    "focus": "Desarrollo de carácter y conocimientos bíblicos."
+  },
+  {
+    "id": "juvenil",
+    "name": "Liderazgo Juvenil",
+    "ageRange": "12 años en adelante",
+    "focus": "Preparación ministerial y transición a la juventud."
+  },
+  {
+    "id": "academica",
+    "name": "Área Académica",
+    "ageRange": "Comunidad escolar",
+    "focus": "Tareas dirigidas y apoyo intelectual."
+  }
+]

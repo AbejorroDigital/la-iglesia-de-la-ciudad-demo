@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "El Corazón: Fuente de Vida",
+    "series": "Serie: El Corazón",
+    "date": "10 de Marzo, 2026",
+    "speaker": "Apóstol José Sánchez",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Una enseñanza sobre la conexión entre la salud del corazón y la claridad mental, y cómo alinear nuestros propósitos con el diseño divino.",
+    "tags": ["Salud Mental", "Propósito", "Fe"]
+  },
+  {
+    "id": "2",
+    "title": "Hábitos de Vencedores",
+    "series": "Serie: Hábitos",
+    "date": "3 de Marzo, 2026",
+    "speaker": "Apóstol José Sánchez",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Descubre cómo la disciplina mental y emocional, junto con la oración y alabanza, construyen una vida victoriosa.",
+    "tags": ["Disciplina", "Oración", "Crecimiento"]
+  },
+  {
+    "id": "3",
+    "title": "Familias Felices en Tiempos de Crisis",
+    "series": "Serie: Familia",
+    "date": "24 de Febrero, 2026",
+    "speaker": "Apóstol José Sánchez",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Principios bíblicos para fortalecer el núcleo familiar y mantener la unidad frente a los desafíos contemporáneos.",
+    "tags": ["Familia", "Unidad", "Esperanza"]
+  }
+]
